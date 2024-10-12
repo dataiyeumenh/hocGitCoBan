@@ -1,2 +1,5 @@
 .env
 abc/
+
+node_modules/
+.logs
